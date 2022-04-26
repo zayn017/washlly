@@ -8,9 +8,13 @@ This project is a starting point for a Flutter application.
 
 This section discusses the features and functions that were implemented in the system for the users.
 
+-
+-
 Splash Screen
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/69548544/165324144-501c2836-b7a8-4ddb-8361-ac1b505c8b7b.png">
 
+-
+-
 Dashbaord
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/69548544/165324346-5798236a-3854-4858-b239-37a246dfef0a.png">
 Booking Service
@@ -22,6 +26,7 @@ Booking Service
 <img width="173" alt="image" src="https://user-images.githubusercontent.com/69548544/165356406-bb4a3a09-0327-46e7-8e0d-48a6ac027938.png">
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356452-2d8ea2cb-9820-4dd0-9dab-88fb7282e583.png">
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356469-2efa7c85-b903-4978-ac9b-1a7cbd85210f.png">
+
 -
 -
 Admin
