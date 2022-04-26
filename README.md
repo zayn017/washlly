@@ -12,7 +12,7 @@ This section discusses the features and functions that were implemented in the s
 <img width="172" alt="image" src="https://user-images.githubusercontent.com/69548544/165324144-501c2836-b7a8-4ddb-8361-ac1b505c8b7b.png">
 
 
-/ Dashbaord
+- Dashbaord
 <img width="196" alt="image" src="https://user-images.githubusercontent.com/69548544/165324346-5798236a-3854-4858-b239-37a246dfef0a.png">
 Booking Service
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165324467-fffa50a9-56b2-4e07-832f-825ddab15f7b.png">
@@ -25,7 +25,7 @@ Booking Service
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356469-2efa7c85-b903-4978-ac9b-1a7cbd85210f.png">
 
 
-#Admin
+- Admin
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356500-2fcf8334-6bad-49e4-8e9c-6b8549d976b2.png">
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356523-911d304e-9513-476e-88f7-3650d43cc221.png">
 <img width="182" alt="image" src="https://user-images.githubusercontent.com/69548544/165356537-3256c612-9d04-413c-a50b-59dad9617ccb.png">
